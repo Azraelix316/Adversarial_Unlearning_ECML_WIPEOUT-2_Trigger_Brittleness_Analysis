@@ -1,1 +1,2 @@
-# Adversarial_Unlearning_ECML_WIPEOUT-2_Trigger_Brittleness_Analysis
+# Trigger Brittleness Analysis
+This repository includes the source code utilized in a paper submission to the WIPEOUT 2 Workshop on Machine Unlearning, focusing on trigger brittleness for the Neural Debris Streak Removal in Streak Detection Models. For more information on the competition, please refer to this [link](https://www.kaggle.com/competitions/neural-debris-removal-in-streak-detection-models/overview).
